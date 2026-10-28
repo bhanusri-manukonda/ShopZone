@@ -585,7 +585,7 @@ Testing can be expanded to cover:
 
 # 👨‍💻 Author
 
-## Devadasu Gudari
+## BHANUSRI MANUKONDA
 
 **B.Tech Computer Science & Engineering Graduate**
 
